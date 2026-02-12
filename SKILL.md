@@ -1,10 +1,9 @@
 ---
 name: amour-propre-diagnosis
-description: Identify when vanity, status-seeking, or comparative self-esteem is corrupting
-  judgment, decisions, or relationships.
+description: Identify when vanity, status-seeking, or comparative self-esteem is corrupting judgment, decisions, or relationships.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - amour-propre-diagnosis
